@@ -91,7 +91,9 @@
 <br>
 
 ### 4. 마이레시피
-
+<p align="center">
+<img src="./Readme_assets/181244.png">
+</p>
 ### 5. 레시피 게시판
 <p align="center">
 <img src="./Readme_assets/recipe_list_1.png">
